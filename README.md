@@ -52,13 +52,13 @@
 <br>
 
 # 📈 Statistics 📈
-![](https://komarev.com/ghpvc/?username=arshmancodes&color=447ff7&label=Visitor+count)
+![](https://komarev.com/ghpvc/?username=mehrozone&color=447ff7&label=Visitor+count)
 
 <p align="center">
-  <a href="https://github.com/arshmancodes/">
-    <img src="https://github-readme-stats.vercel.app/api?username=arshmancodes&show_icons=true&theme=github_dark&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshmancodes&theme=github-dark-blue&hide_border=true" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=arshmancodes&theme=react-dark" />
+  <a href="https://github.com/mehrozone/">
+    <img src="https://github-readme-stats.vercel.app/api?username=mehrozone&show_icons=true&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehrozone&theme=github-dark-blue&hide_border=true" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=mehrozone&theme=react-dark" />
   </a>
 </p>
 
