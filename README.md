@@ -21,7 +21,7 @@
       <img src="https://ih1.redbubble.net/image.1057190231.1918/pp,840x830-pad,1000x1000,f8f8f8.u1.jpg" height=40 width=50 /> 
     </a>
     <a href="https://reactjs.org/" target="_blank"> 
-      <img src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/react-js-blog-header.png?itok=VbfDeSgJ" height=40 width=50 /> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height=40 width=50 /> 
     </a>
 </p>
 
