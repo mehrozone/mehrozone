@@ -1,13 +1,11 @@
 ### I'm Mehroz Afzal, a full-time full-stack freelance developer. 🚀  
   
 
-I'm a creative developer with a passion for all things visual and technical. I build interactive web experiences that bring brands to life and add depth to their stories. I’ve used my design and development skills to create award-winning digital experiences for some of the world's most respected agencies and brands.
+I am a seasoned Principal Software Engineer with extensive expertise in the MERN Stack and mobile app development, using technologies such as Flutter (Dart), React Native, TypeScript, and JavaScript. My proficiency extends to MongoDB for robust database management, while Node.js and Express.js form the backbone of my backend development capabilities. I leverage Vite for efficient front-end tooling, ensuring optimal project performance.
 
-My mission is to revolutionize the way brands are experienced by making online interactions meaningful and memorable. I use cutting edge web technology combined with pleasing and purposeful visuals to tell stories and invoke a feeling of connectedness.
+Beyond core technologies, I am well-versed in using a variety of tools to enhance collaboration and project management. I am experienced in working with Jira for project tracking, HubSpot for customer relationship management, Slack for seamless communication, and Notion for collaborative documentation. Additionally, I am adept at utilizing CI/CD pipelines, particularly GitHub Actions, for automation, ensuring smooth and reliable software delivery.
 
-I selectively work with brands who are passionate about their vision and ambitious about their impact.
-
-I look forward to sharing my creativity and dedication to quality.  
+My skill set also includes the successful publication of mobile apps to both Google Play and the App Store. I bring a holistic approach to software engineering, combining technical prowess with a comprehensive understanding of project dynamics. My commitment is to deliver innovative solutions, contributing to project success through strategic and impactful software development..  
   
 
 <br/>  
