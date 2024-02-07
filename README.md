@@ -30,7 +30,8 @@ My skill set also includes the successful publication of mobile apps to both Goo
 
 
 ## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=mehrozone&theme=nord&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
+![](https://github-profile-trophy.vercel.app/?username=mehrozone&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
