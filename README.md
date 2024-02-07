@@ -19,8 +19,9 @@ My skill set also includes the successful publication of mobile apps to both Goo
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=mehrozone&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mehrozone&theme=radical&hide_border=false)<br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehrozone&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Awan's GitHub Stats" />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrozone&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+![](https:/github-readme-stats-git-master-mehrozones-projects.vercel.app/api/top-langs/?username=mehrozone&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mehrozone&theme=tokyo-night"/>
