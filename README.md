@@ -17,8 +17,8 @@ My skill set also includes the successful publication of mobile apps to both Goo
 [![](https://visitcount.itsvg.in/api?id=mehrozone&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 📊GitHub Stats :
-![Mehroz Afzal's GitHub stats](https://github-readme-stats-zeta-mauve.vercel.app/api?username=arshmancodes&show_icons=true&theme=radical&include_all_commits=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=mehrozone&theme=radical&hide_border=false)<br/>
+![Mehroz Afzal's GitHub stats](https://github-readme-stats-zeta-mauve.vercel.app/api?username=mehrozone&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mehrozone&theme=radical&hide_border=false&include_all_commits=true)<br/>
 
 
 ![](https:/github-readme-stats-git-master-mehrozones-projects.vercel.app/api/top-langs/?username=mehrozone&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
