@@ -17,10 +17,9 @@ My skill set also includes the successful publication of mobile apps to both Goo
 [![](https://visitcount.itsvg.in/api?id=mehrozone&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 📊GitHub Stats :
-<p>
-  <img  height="180em" src="https://readme-stats-nine-self.vercel.app/api/top-langs/?username=mehrozone&langs_count=5&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border" alt=mehrozone />
-  <img  height="180em" src="https://readme-stats-nine-self.vercel.app/api?username=mehrozone&show_icons=true&locale=en&theme=tokyonight&hide_border&rank_icon=percentile&include_all_commits=true" alt="mehrozone" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=mehrozone&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mehrozone&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrozone&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mehrozone&theme=tokyo-night"/>
