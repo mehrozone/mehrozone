@@ -22,7 +22,7 @@ My skill set also includes the successful publication of mobile apps to both Goo
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mehrozone&theme=radical&hide_border=false&include_all_commits=true)<br/>
 
 
-![](https:/github-readme-stats-git-master-mehrozones-projects.vercel.app/api/top-langs/?username=mehrozone&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https:/[github-readme-stats-git-master-mehrozones-projects.vercel.app](https://github-readme-stats-zeta-mauve.vercel.app)/api/top-langs/?username=mehrozone&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mehrozone&theme=tokyo-night"/>
