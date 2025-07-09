@@ -5,7 +5,7 @@ I am a seasoned Principal Software Engineer with extensive expertise in the MERN
 
 Beyond core technologies, I am well-versed in using a variety of tools to enhance collaboration and project management. I am experienced in working with Jira for project tracking, HubSpot for customer relationship management, Slack for seamless communication, and Notion for collaborative documentation. Additionally, I am adept at utilizing CI/CD pipelines, particularly GitHub Actions, for automation, ensuring smooth and reliable software delivery.
 
-My skill set also includes the successful publication of mobile apps to both Google Play and the App Store. I bring a holistic approach to software engineering, combining technical prowess with a comprehensive understanding of project dynamics. My commitment is to deliver innovative solutions, contributing to project success through strategic and impactful software development...  
+My skill set also includes the successful publication of mobile apps to both Google Play and the App Store. I bring a holistic approach to software engineering, combining technical prowess with a comprehensive understanding of project dynamics. My commitment is to deliver innovative solutions, contributing to project success through strategic and impactful software development..
   
 
 <br/> 
